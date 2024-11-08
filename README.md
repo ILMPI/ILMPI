@@ -23,7 +23,7 @@ Full Stack Developer
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/ILMPI"><img src="https://github-readme-stats.vercel.app/api?username=ILMPI&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=64748b&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="ILMPI's GitHub stats" /></a>
 
-<a href="http://www.github.com/ILMPI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ILMPI&stroke=64748b&background=181824&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 <a href="https://github.com/ILMPI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILMPI&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
