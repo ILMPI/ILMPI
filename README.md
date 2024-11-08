@@ -1,7 +1,15 @@
 Hi 👋 My name is Angie
-======================Full Stack Developer--------------------* 🌍  I'm based in Vitoria-Gasteiz, Spain* ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)* 🤝  I'm open to collaborating on interesting projects
+======================
 
-### Skills
+Full Stack Developer
+--------------------
+
+*   🌍  I'm based in Vitoria-Gasteiz, Spain
+*   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
+*   🤝  I'm open to collaborating on interesting projects
+
+### Skills 
+
 
 
 <p align="left">
