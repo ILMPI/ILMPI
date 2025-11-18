@@ -1,12 +1,12 @@
 Hi 👋 My name is Angie
 ======================
 
-Full Stack Developer
+Frontend Developer
 --------------------
 
 *   🌍  I'm based in Vitoria-Gasteiz, Spain
 *   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
-*   🧠  I'm learning cybersecurity, I find this fascinating topic and incredibly important
+*   🧠  I'm currently learning AWS Cloud Practitioner Essentials.
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm truly believe that nothing is impossible for our mind!
 
