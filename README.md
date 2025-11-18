@@ -1,4 +1,5 @@
-Hi 👋 My name is Angie
+Hello, Nice to meet you!
+👋 I'm Angelika
 ======================
 
 Frontend Developer
