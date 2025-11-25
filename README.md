@@ -2,7 +2,7 @@ Hello, Nice to meet you!
 👋 I'm Angelika
 ======================
 
-Frontend Developer
+Python Backend Developer
 --------------------
 
 *   🌍  I'm based in Vitoria-Gasteiz, Spain
