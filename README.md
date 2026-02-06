@@ -2,7 +2,7 @@ Hello, Nice to meet you!
 👋 I'm Angelika
 ======================
 
-Python Backend Developer
+Frontend Developer with Full-Stack Experience (Python / Node)
 --------------------
 
 *   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
