@@ -6,7 +6,6 @@ Frontend Developer with Full-Stack Experience (Python / Node)
 --------------------
 
 *   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
-*   🧠  Currently learning AWS Cloud Practitioner Essentials.
 *   🤝  Open to collaborating on interesting projects
 *   ⚡   "Everything is possible for one who believes"
 
