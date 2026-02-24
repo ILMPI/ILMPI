@@ -1,5 +1,5 @@
 Hello, Nice to meet you!
-👋 I'm Angelika
+👋 I'm Angela
 ======================
 
 Frontend Developer with Full-Stack Experience (Python / Node)
