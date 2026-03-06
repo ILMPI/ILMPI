@@ -1,5 +1,5 @@
 Hello, Nice to meet you! <br>
-Mucho gusto! | Приятно познакомиться! <br> Рада знайомству! | はじめまして
+Mucho gusto! | Atsegin handiz!<br> Приятно познакомиться! <br> Рада знайомству! | はじめまして
 ======================
 
 I'm Angelika / Angela / Angie (*all versions are valid*) <br>
