@@ -1,8 +1,9 @@
-Hello, Nice to meet you!
-👋 I'm Angela
+Hello, Nice to meet you! <br>
+Mucho gusto! | Приятно познакомиться! <br> Рада знайомству! | はじめまして
 ======================
 
-Frontend Developer with Full-Stack Experience (Python / Node)
+I'm Angelika / Angela / Angie (*all versions are valid*) <br>
+Frontend Developer with Full-Stack Experience
 --------------------
 
 *   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
