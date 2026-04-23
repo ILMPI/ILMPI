@@ -2,7 +2,7 @@ Hello, Nice to meet you! <br>
 Mucho gusto! | Atsegin handiz!<br> Приятно познакомиться! <br> Рада знайомству! | はじめまして
 ======================
 
-I'm Angelika / Angela / Angie (*all versions are valid*) <br>
+I'm Angelika<br>
 Frontend Developer with Full-Stack Experience
 --------------------
 
