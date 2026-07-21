@@ -6,7 +6,6 @@ I'm Angelika<br>
 Frontend Developer with Full-Stack Experience
 --------------------
 
-*   ✉️  You can contact me at [angelikakaplienko@gmail.com](mailto:angelikakaplienko@gmail.com)
 *   🤝  Open to collaborating on interesting projects
 *   ⚡   "Everything is possible for one who believes"
 
